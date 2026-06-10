@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Builder Game",
+  "description": "An MVP Minecraft-like first-person voxel survival and building game with procedural flat terrain, block placing/breaking mechanics, and an interactive UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
